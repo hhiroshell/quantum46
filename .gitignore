@@ -1,0 +1,5 @@
+# KiCAD internal files
+*-backups/
+*.lck
+fp-info-cache
+*_cache.lib
