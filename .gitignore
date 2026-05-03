@@ -3,3 +3,11 @@
 *.lck
 fp-info-cache
 *_cache.lib
+_autosave-*
+*.rpt
+
+# JLC PCB plugin / ordering outputs
+jlcpcb/
+
+# Editor backup files
+*~
